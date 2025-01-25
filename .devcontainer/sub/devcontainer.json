@@ -2,7 +2,7 @@
   "name": "sub-app",
   "dockerComposeFile": "../compose.yml",
   "service": "sub",
-  "workspaceFolder": "/workspaces/devcontainer-feature-test",
+  "workspaceFolder": "/workspaces/multi-devcontainers-with-feature-bug-test",
 
   "features": {
     "ghcr.io/devcontainers/features/node:1": {
